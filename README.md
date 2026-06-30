@@ -27,4 +27,4 @@ This task was completed as part of the CodeAlpha IoT Internship Program
 real-world applications.
 
 ## Author
-[Aapka naam]
+GULLWASH
